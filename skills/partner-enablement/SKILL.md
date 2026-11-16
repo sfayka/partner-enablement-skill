@@ -15,11 +15,15 @@ Define learner roles and baseline, instructor baseline, tasks, sources, observab
 
 Activate applicable sales, implementation and support requirements in one workflow. Distinguish a role-spanning foundation from advanced competence in each profession.
 
+Before drafting, build a role consistency matrix: included role, actual job task, justified prerequisites, taught capability, practice, assessment and certification claim. Challenge each role's inclusion. A skill supporting several roles does not imply one course must teach them all. Exclude unsupported roles or provide accessible prerequisites and genuinely differentiated paths. Never justify developer-level requirements merely by declaring a common foundation. Walk the course as a minimum-ready learner in every included role and resolve irrelevant demands and hidden knowledge before council review.
+
 ## Build in the principles
 
 Require readiness checks with preparation and remediation; sequenced conceptual explanations; complete reasoned examples; short explain/demo/do/check cycles; gradually reduced guidance; diagnostic feedback with correction and rechecks; later retrieval and spaced reinforcement; realistic transfer; and objective-aligned assessment.
 
 Use preview, explanation, demonstration, practice, recap and assessment to organize courses. Do not repeat identical prose mechanically or inflate a reference sheet into a course. Map each objective to instruction, example, practice, feedback and assessment evidence. Preserve practice and recovery time.
+
+Apply the instructional sequence at lesson level: preview coverage and takeaways, explain, demonstrate, learner application, recap, and applicable assessment. Choose an appropriate exercise for the job task; not every lesson needs a separate lab or scored quiz. Preserve course-level assessment coverage. Immediately before a complex dependent concept, retrieve the needed foundational concept, explain the connection, diagnose gaps and reteach before continuing.
 
 At manuscript stage, inspect actual content. A citation or assertion that a principle is followed cannot satisfy it. Keep guided learning distinct from independent assessment.
 
@@ -34,6 +38,8 @@ Default quiz pass is 80 percent with a separate practical pass. Require observab
 Maintain canonical Markdown and a shared manifest of objectives, activities, checkpoints, product versions, fixtures, evidence, assessment forms and artifact status.
 
 Use independent review functions for new courses, certifications and major revisions: instructional design; assessment; instructor handoff; technical integrity and consistency. Follow the protocol. Reviewers inspect raw content separately first. Every finding needs criterion, location, evidence, consequence and correction. Revise and recheck affected content and dependencies. Resolve disagreements through scoped sources and explicit rules, not a vote.
+
+Require every reviewer to cross-check the role consistency matrix against actual source content and challenge the author's audience framing. Presence checks alone cannot pass. A role-prerequisite-task-assessment mismatch blocks the stage. Human review is a last line of defense: when it catches a mandatory defect, supersede the affected pass, correct the content and failed review rule, add a reusable regression case, and rerun affected reviews before asking the human again.
 
 Use targeted review plus impact checks for small edits. Disclose sequential passes if independent agents are unavailable; never invent a council pass. Stop after three unresolved revision cycles and report the blocked criterion without lowering the standard or asking the human to supply instructional expertise.
 

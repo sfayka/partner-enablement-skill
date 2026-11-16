@@ -20,6 +20,8 @@ Establish learner roles, job tasks, prior knowledge, instructor baseline compete
 
 For sales require fit, discovery, defensible value and limitations, objections, and implementation handoff where relevant. For implementation require prerequisites, architecture, authentication, working examples, verification and recovery. For support require symptoms, diagnostic evidence, remediation, verification and escalation. Combine applicable requirements; do not create three separate skills.
 
+Require a role consistency matrix before writing: role, job responsibility, entry knowledge, taught capability, worked example, learner practice, assessment evidence and scope of certification. Validate the relationship between these elements, not just their presence. Include a role only when the objectives serve its actual responsibilities. A common foundation must be accessible and useful to every included role; otherwise narrow the audience or define role-specific prerequisites, paths and assessment claims. Do not relabel an inappropriate prerequisite as necessary literacy to rationalize the course framing. Author and reviewers must each walk the design as a minimum-ready learner in every included role and identify missing knowledge, irrelevant work and mismatched assessments.
+
 ## Mandatory instructional construction
 
 Require the following in every full course. Show concrete evidence, not statements of intention. At blueprint stage specify activity, intervention, timing, and later verification; at manuscript stage inspect actual content and answer keys. An isolated reference or how-to uses only applicable requirements, with an explicit scope reason.
@@ -32,7 +34,9 @@ Require the following in every full course. Show concrete evidence, not statemen
 6. Require relevant hands-on or decision practice, explicit success criteria, useful feedback, troubleshooting, cleanup, and instructor solutions. Watching the instructor does not establish performance. Pair practice must not substitute for individual certification evidence.
 7. Recap concepts through learner retrieval and application, not repeated slide text alone. Revisit earlier ideas later in the session. Include a defined spaced follow-up task with feedback; course-specific alternatives must explain how reinforcement is achieved. Do not claim a universal scientifically optimal interval.
 8. Test transfer with a scenario that changes meaningful details without introducing untaught requirements. Require reasoning and verification, not copied outputs alone.
-9. Align each objective to explanation, worked example, practice, feedback, and final assessment. Quizzes must concern taught material, use plausible diagnostic alternatives, and include rationales. Practical assessment establishes task performance; a quiz cannot replace it.
+9. Align each objective to explanation, worked example, practice, feedback, and final assessment. Quizzes must concern taught material, use plausible diagnostic alternatives, and include rationales. Practical assessment establishes applied task performance; a quiz cannot replace evidence of an objective that requires performing a task. Do not demand a separate tool lab or practical examination for every conceptual lesson: explanation, prediction or decision evidence may be appropriate, and an integrated assessment may cover multiple objectives.
+
+Apply preview and expected takeaways, explanation, reasoned demonstration, learner application, recap and applicable assessment to each lesson. Use a lab, decision exercise, explanation task or other appropriate application; do not require a separate scored quiz in every lesson. Record how course assessments cover all objectives. Add a dependency map naming the foundation each complex concept requires; retrieve and reconnect that foundation immediately before teaching its dependent concept. Define corrective feedback when retrieval exposes a gap, rather than relying solely on end-of-module or follow-up review.
 
 ## Assessment defaults
 
@@ -55,6 +59,8 @@ Use independent reviewers for instructional design, assessment, instructor hando
 Give reviewers the raw source, stage, applicable criteria, and authoritative references. Do not seed them with the author's preferred verdict or other reviewers' findings before their first pass. Require each finding to contain ID, criterion, content location, severity, evidence, consequence, and required correction. A blocker prevents the current stage gate. An advisory suggests improvement without violating a mandatory criterion.
 
 Author revisions must address every blocker with evidence. Re-review revised content and affected dependencies. Resolve disagreements through the governing criterion and sources, not majority vote. After three unresolved cycles stop and report the concrete blocked requirement; do not lower the standard or ask the human to supply instructional expertise. Distinguish unresolved product facts from instructional defects.
+
+Make relational consistency an explicit blocking check for every reviewer. Verify role inclusion, prerequisite accessibility, objective relevance, teaching and exercise demands, scoring and credential claims together. Challenge the author's framing instead of accepting an assertion that all roles need a shared technical foundation. A human-discovered instructional defect is a missed author and council check: supersede the affected pass, record root cause, revise the review instructions and add a portable regression case before repeating affected checks. Do not characterize a preventable design mismatch as work delegated to human suitability review.
 
 ## Stage gates and evidence
 
