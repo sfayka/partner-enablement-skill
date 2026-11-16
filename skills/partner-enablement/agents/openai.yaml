@@ -1,0 +1,4 @@
+interface:
+  display_name: "Partner Enablement"
+  short_description: "Design and audit technical partner training"
+  default_prompt: "Use $partner-enablement to design a technical partner course and audit it before human suitability review."
